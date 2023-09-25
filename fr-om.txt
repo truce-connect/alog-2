@@ -1,0 +1,51 @@
+write a javascript program that accept usermane and greetings and print out the user name using alert e.g of output good mornig prof sain 
+step 1 create a variable  that will store  the username
+ step 2   create variable that store  the greatetind 
+ step 3  create a variable that return both variable 
+  write  a javascript program that add 2 no use prompt to accept the no and use console .log to accept the  recsult 
+   write a javascript program that ask students their name and five courses they are taken use this information to generate a student card that will be outputed in a console in this format 
+   format 
+    Name:Tayo-oyebanji
+     course 1 : html
+     course 2: css
+     course 3: javascript
+     course 4 : react
+     course 5:node js
+
+
+step1 : create a variable  that store their name  variable using prompt
+ step 2: create a variable that store the coures 1 course  using prompt 
+ step 3: create a variable that store the coures 2 course  using prompt 
+ step 4: create a variable that store the coures 3 course  using prompt
+ step 5: create a variable that store the coures 4 course  using prompt
+ step 6: create a variable that store the coures 5 course  using prompt     
+ step 7 : then we  return  the output in the  connsole  to show the  result 
+
+  write a function that student age   and check if student  age 18  output congrtulation you ave been admmited h
+
+
+   step 1:  create function grade check 
+    step 2: create   in a conditional operator with if
+    create  
+    step 3  the first operator should be first be >=90 -<=100  console.log  ( A : excellent )
+     step 4: the second condition >=75-89<=console.log(B = very gooD)
+       step
+
+
+        create a function
+        inside create a variable  that prompt the the input 
+        then create  a  conditional statement that take the user name  
+        then later convert the input to a small case  
+        console the username concated with the input of the gender 
+         
+
+
+
+          write a javascript  a  program that convert  each  word in a sentances to title case 
+
+
+      write the function
+      save the string in a prompt
+      kpomo in to lower case 
+       then slice kpomo 
+        then  we add them together 
